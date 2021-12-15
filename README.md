@@ -28,7 +28,7 @@ It is important to keep the same file structure when dowloading the files to run
 
 ## Contributors
 - Pappe Ngom
-- Dr. John Williams - MIT
+- MIT xPRO
 
 ## License information
 
